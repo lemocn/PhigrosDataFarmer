@@ -1,4 +1,4 @@
-# Phigros Data Farmer
+# Phigros Data Farmer(PDF)
 
 本项目是一款专为Phigros设计的自动循环刷Data工具。
 
