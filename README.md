@@ -1,6 +1,6 @@
 # Phigros Data Farmer(PDF)
 
-本项目是一款专为Phigros设计的自动循环刷Data工具。
+本项目是一款Phigros自动循环刷Data工具。
 
 本项目基于 [Xizo-114514/Phigros-Script](https://github.com/Xizo-114514/Phigros-Script/) 进行二次开发与深度优化。
 
