@@ -1,0 +1,2 @@
+# PhigrosDataFarmer
+一款专为Phigros设计的自动循环刷Data工具
