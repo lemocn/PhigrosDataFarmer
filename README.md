@@ -36,6 +36,6 @@ pip install -r requirements.txt
 
 ---
 
-**Maintained by [lemocn**](https://github.com/lemocn)
+Maintained by [lemocn](https://github.com/lemocn)
 
 ---
